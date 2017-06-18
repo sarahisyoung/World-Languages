@@ -1,0 +1,15 @@
+AnswerIntent {Country}
+AnswerIntent {Language}
+AnswerIntent tell me about {Country}
+AnswerIntent tell me about {Language}
+AnswerIntent what do you know about {Country}
+AnswerIntent what do you know about {Language}
+AnswerIntent {Country} information
+AnswerIntent {Language} information
+AnswerIntent what language is spoken in {Country}
+QuizIntent start a quiz
+QuizIntent start a quiz game
+QuizIntent and start a quiz
+QuizIntent and quiz me
+QuizIntent for a quiz
+QuizIntent a quiz
